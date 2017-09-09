@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache

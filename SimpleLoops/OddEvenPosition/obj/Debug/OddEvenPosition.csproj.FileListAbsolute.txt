@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

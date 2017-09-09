@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

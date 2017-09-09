@@ -1,0 +1,5 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\StopNumber\bin\Debug\StopNumber.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\StopNumber\bin\Debug\StopNumber.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\StopNumber\bin\Debug\StopNumber.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\StopNumber\obj\Debug\StopNumber.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\StopNumber\obj\Debug\StopNumber.pdb

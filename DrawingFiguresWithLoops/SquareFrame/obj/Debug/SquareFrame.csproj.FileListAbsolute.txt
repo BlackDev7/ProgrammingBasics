@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareFrame\bin\Debug\SquareFrame.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareFrame\obj\Debug\SquareFrame.pdb

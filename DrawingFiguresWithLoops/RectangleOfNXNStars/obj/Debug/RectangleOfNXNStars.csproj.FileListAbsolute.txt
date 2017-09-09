@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOfNXNStars\bin\Debug\RectangleOfNXNStars.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOfNXNStars\bin\Debug\RectangleOfNXNStars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOfNXNStars\bin\Debug\RectangleOfNXNStars.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOfNXNStars\obj\Debug\RectangleOfNXNStars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOfNXNStars\obj\Debug\RectangleOfNXNStars.pdb

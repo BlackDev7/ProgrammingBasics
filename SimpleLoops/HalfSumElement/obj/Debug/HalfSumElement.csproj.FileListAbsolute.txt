@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb

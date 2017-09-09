@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\HotelRoom\bin\Debug\HotelRoom.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\HotelRoom\bin\Debug\HotelRoom.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\HotelRoom\bin\Debug\HotelRoom.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\HotelRoom\obj\Debug\HotelRoom.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\HotelRoom\obj\Debug\HotelRoom.pdb

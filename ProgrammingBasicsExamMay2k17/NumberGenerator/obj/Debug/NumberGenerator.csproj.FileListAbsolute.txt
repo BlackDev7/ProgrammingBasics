@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\obj\Debug\NumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\NumberGenerator\obj\Debug\NumberGenerator.pdb

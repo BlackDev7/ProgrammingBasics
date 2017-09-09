@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\bin\Debug\Hospital.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\bin\Debug\Hospital.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\bin\Debug\Hospital.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\obj\Debug\Hospital.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\obj\Debug\Hospital.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamAugust2k16\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache

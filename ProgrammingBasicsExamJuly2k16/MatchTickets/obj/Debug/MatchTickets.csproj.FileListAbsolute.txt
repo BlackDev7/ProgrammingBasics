@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\bin\Debug\MatchTickets.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\bin\Debug\MatchTickets.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\bin\Debug\MatchTickets.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\obj\Debug\MatchTickets.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\obj\Debug\MatchTickets.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\MatchTickets\obj\Debug\MatchTickets.pdb

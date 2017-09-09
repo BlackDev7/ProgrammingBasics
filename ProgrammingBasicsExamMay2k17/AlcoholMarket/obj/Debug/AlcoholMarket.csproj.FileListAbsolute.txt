@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\bin\Debug\AlcoholMarket.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\bin\Debug\AlcoholMarket.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\bin\Debug\AlcoholMarket.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\obj\Debug\AlcoholMarket.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\obj\Debug\AlcoholMarket.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\AlcoholMarket\obj\Debug\AlcoholMarket.pdb

@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\bin\Debug\Harvest.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\bin\Debug\Harvest.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\bin\Debug\Harvest.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\obj\Debug\Harvest.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\obj\Debug\Harvest.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache

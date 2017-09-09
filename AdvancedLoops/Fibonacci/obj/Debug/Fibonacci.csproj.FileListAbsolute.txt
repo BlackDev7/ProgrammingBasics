@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache

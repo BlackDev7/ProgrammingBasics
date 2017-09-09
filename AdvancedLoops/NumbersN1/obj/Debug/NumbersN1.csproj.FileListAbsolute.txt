@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\NumbersN1\obj\Debug\NumbersN1.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\NumbersN1\obj\Debug\NumbersN1.pdb

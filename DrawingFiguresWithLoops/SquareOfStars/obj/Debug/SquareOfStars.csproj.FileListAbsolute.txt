@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\SquareOfStars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\SquareOfStars.pdb

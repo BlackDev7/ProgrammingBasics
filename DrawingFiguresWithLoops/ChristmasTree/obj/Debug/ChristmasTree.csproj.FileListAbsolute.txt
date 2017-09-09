@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.pdb

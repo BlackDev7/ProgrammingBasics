@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\bin\Debug\BackToThePast.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\bin\Debug\BackToThePast.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\bin\Debug\BackToThePast.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\obj\Debug\BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\obj\Debug\BackToThePast.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\BackToThePast\obj\Debug\BackToThePast.pdb

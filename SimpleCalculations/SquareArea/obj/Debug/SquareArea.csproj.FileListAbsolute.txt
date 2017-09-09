@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\SquareArea\bin\Debug\SquareArea.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\SquareArea\obj\Debug\SquareArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\SquareArea\obj\Debug\SquareArea.pdb

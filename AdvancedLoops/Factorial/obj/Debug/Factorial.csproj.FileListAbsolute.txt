@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb

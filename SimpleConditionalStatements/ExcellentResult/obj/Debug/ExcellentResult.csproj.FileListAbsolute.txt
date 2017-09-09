@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.pdb

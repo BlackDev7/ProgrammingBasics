@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamJuly2k16\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

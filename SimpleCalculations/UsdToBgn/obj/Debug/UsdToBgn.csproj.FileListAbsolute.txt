@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\UsdToBgn\bin\Debug\UsdToBgn.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\UsdToBgn\bin\Debug\UsdToBgn.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\UsdToBgn\bin\Debug\UsdToBgn.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\UsdToBgn\obj\Debug\UsdToBgn.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\UsdToBgn\obj\Debug\UsdToBgn.pdb

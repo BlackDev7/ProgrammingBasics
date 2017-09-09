@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

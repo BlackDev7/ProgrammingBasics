@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\bin\Debug\ToyShop.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\bin\Debug\ToyShop.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\bin\Debug\ToyShop.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\obj\Debug\ToyShop.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\obj\Debug\ToyShop.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ProgrammingBasicsExamMay2k17\ToyShop\obj\Debug\ToyShop.pdb

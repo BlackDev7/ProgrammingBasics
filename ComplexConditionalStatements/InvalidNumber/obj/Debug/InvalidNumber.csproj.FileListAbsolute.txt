@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\InvalidNumber\bin\Debug\InvalidNumber.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\InvalidNumber\bin\Debug\InvalidNumber.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\InvalidNumber\obj\Debug\InvalidNumber.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\InvalidNumber\obj\Debug\InvalidNumber.pdb

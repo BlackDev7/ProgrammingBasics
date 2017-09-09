@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.pdb

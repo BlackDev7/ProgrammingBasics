@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\LeftАndRightSum\bin\Debug\LeftАndRightSum.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\LeftАndRightSum\bin\Debug\LeftАndRightSum.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\LeftАndRightSum\bin\Debug\LeftАndRightSum.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\LeftАndRightSum\obj\Debug\LeftАndRightSum.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\LeftАndRightSum\obj\Debug\LeftАndRightSum.pdb

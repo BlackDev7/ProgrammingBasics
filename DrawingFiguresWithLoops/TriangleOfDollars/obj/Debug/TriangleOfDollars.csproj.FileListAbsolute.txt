@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

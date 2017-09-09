@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.pdb

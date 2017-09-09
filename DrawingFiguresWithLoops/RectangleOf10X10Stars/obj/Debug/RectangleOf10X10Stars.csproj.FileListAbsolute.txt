@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\bin\Debug\RectangleOf10X10Stars.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\bin\Debug\RectangleOf10X10Stars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\bin\Debug\RectangleOf10X10Stars.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\obj\Debug\RectangleOf10X10Stars.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\obj\Debug\RectangleOf10X10Stars.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RectangleOf10X10Stars\obj\Debug\RectangleOf10X10Stars.pdb

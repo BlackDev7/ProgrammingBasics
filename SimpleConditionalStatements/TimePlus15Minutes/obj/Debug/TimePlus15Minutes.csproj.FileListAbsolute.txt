@@ -1,0 +1,12 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\SimpleConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb

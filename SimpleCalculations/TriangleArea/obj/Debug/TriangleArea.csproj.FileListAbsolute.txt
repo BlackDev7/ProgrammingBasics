@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.pdb

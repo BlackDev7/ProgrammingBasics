@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\bin\Debug\PointInRectangle.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\bin\Debug\PointInRectangle.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\obj\Debug\PointInRectangle.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointInRectangle\obj\Debug\PointInRectangle.pdb

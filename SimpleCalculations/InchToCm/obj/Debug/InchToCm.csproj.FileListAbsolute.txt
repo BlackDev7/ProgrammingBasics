@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\InchToCm\bin\Debug\InchToCm.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\InchToCm\bin\Debug\InchToCm.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\InchToCm\bin\Debug\InchToCm.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\InchToCm\obj\Debug\InchToCm.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\InchToCm\obj\Debug\InchToCm.pdb

@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ThreeEqualNumbers\bin\Debug\ThreeEqualNumbers.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\ThreeEqualNumbers\obj\Debug\ThreeEqualNumbers.pdb

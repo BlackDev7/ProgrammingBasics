@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\bin\Debug\EvenОrOdd.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\bin\Debug\EvenОrOdd.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\bin\Debug\EvenОrOdd.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\obj\Debug\EvenОrOdd.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\obj\Debug\EvenОrOdd.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EvenОrOdd\obj\Debug\EvenОrOdd.pdb

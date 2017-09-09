@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\NumberToText\bin\Debug\NumberToText.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\NumberToText\bin\Debug\NumberToText.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\NumberToText\bin\Debug\NumberToText.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\NumberToText\obj\Debug\NumberToText.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\NumberToText\obj\Debug\NumberToText.pdb

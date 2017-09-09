@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

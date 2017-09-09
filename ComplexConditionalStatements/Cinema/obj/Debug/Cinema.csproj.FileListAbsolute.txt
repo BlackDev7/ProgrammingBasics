@@ -1,0 +1,6 @@
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.pdb
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.exe
+C:\Users\kiko0735\Documents\Visual Studio 2017\Projects\SoftUni ProgrammingBasics\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.pdb

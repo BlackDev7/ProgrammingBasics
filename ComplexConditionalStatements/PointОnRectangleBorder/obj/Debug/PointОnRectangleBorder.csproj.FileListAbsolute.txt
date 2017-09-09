@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\bin\Debug\PointОnRectangleBorder.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\bin\Debug\PointОnRectangleBorder.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\bin\Debug\PointОnRectangleBorder.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\obj\Debug\PointОnRectangleBorder.csprojResolveAssemblyReference.cache
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\obj\Debug\PointОnRectangleBorder.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\ComplexConditionalStatements\PointОnRectangleBorder\obj\Debug\PointОnRectangleBorder.pdb

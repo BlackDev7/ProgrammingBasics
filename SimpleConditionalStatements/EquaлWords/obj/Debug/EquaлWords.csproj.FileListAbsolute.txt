@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EquaлWords\bin\Debug\EquaлWords.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EquaлWords\bin\Debug\EquaлWords.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EquaлWords\bin\Debug\EquaлWords.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EquaлWords\obj\Debug\EquaлWords.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleConditionalStatements\EquaлWords\obj\Debug\EquaлWords.pdb

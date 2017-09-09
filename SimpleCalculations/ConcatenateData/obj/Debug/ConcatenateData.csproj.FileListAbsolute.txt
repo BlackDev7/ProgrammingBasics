@@ -1,0 +1,5 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.pdb

@@ -1,0 +1,6 @@
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.exe.config
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.pdb
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.exe
+c:\users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.csprojResolveAssemblyReference.cache

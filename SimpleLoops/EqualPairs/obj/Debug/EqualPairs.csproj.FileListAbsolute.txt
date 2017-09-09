@@ -1,0 +1,6 @@
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Users\kiko0735\documents\visual studio 2017\Projects\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.pdb
